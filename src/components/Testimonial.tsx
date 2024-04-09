@@ -67,7 +67,7 @@ const Testimonial = () => {
                   <div className='card'>
                     <div className='image'>
                       <div className='img'>
-                        <Image src={`/${user.cover}`} width={400} height={400} alt='' />
+                        <img src={`/${user.cover}`} width={400} height={400} alt='' />
                       </div>
                       <div className='img-text'>
                         <h3>{user.name}</h3>

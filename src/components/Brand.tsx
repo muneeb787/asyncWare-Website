@@ -14,7 +14,7 @@ const Brand = () => {
           <div className='brand-content grid-6 py'>
             {brand.map((item) => (
               <div className='images' key={item.id}>
-                <Image src={item.cover} width={200} height={200} alt={`${item.id}`}  />
+                <img src={item.cover} width={200} height={200} alt={`${item.id}`}  />
               </div>
             ))}
           </div>
