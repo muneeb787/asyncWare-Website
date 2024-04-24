@@ -45,7 +45,9 @@ const Agency = () => {
             <div className='right w-60 ml'>
               <TitleSm title='Our mission' />
               <br />
-              <p className='misson-p'>Fusce fringilla justo vel dui consectetur, fringilla maximus ante malesuada. Suspendisse facilisis nisl augue, ut sollicitudin lectus ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis esse vitae officia nostrum facere. Fugiat voluptates, expedita dolore at perferendis quae libero fuga consequatur veniam, eius non fugit nulla vitae?</p>
+              <p className='misson-p'>
+                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium vero quisquam numquam dolorem maiores culpa necessitatibus consequatur, nesciunt explicabo delectus esse hic non sapiente pariatur! Saepe dolorum quo dignissimos cumque. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium vero quisquam numquam dolorem maiores culpa necessitatibus consequatur, nesciunt explicabo delectus esse hic non sapiente pariatur! Saepe dolorum quo dignissimos cumque.
+              </p>
             </div>
           </div>
         </div>
