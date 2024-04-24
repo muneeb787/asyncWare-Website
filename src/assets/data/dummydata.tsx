@@ -53,28 +53,28 @@ export const testimonial = [
     name: "Alexander Black",
     cover: "../images/e1.jpg",
     post: "Seven consulting - CEO",
-    desc: "Nunc fermentum - tempus erat ligula, sit amet lacinia justo cursus ac. Suspendisse quis nulla tincidunt! Lorem ipsum dolor amet at ornare ex, quis fringilla tortor! Nunc consectetur feugiat rutrum. Sed rhoncus sapien!",
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo quibusdam numquam atque ipsam sit voluptate, veniam necessitatibus, quas praesentium adipisci rerum ab tempora dolorem? Odio asperiores blanditiis eligendi dignissimos aspernatur!!",
   },
   {
     id: 2,
     name: "Diana Green",
     cover: "../images/e2.jpg",
     post: "Seven Arts - marketing manager",
-    desc: "Cras at ornare fermentum quam et tortor euismod, vel maximus metus tristique at ornare ex, quis fringilla tortor. Aenean semper neque quis consectetur lobortis. Quisque nec convallis ex. Aenean ut metus et nunc cursus aliquet.",
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta a iste aliquid, doloremque eius eum? Nobis rerum voluptatem adipisci tenetur aliquam rem cum aspernatur blanditiis, assumenda, laborum doloribus fugit beatae! .",
   },
   {
     id: 3,
     name: "Alexander Black",
     cover: "../images/e3.jpg",
     post: "Seven consulting - CEO",
-    desc: "Nunc fermentum - tempus erat ligula, sit amet lacinia justo cursus ac. Suspendisse quis nulla tincidunt! Lorem ipsum dolor amet at ornare ex, quis fringilla tortor! Nunc consectetur feugiat rutrum. Sed rhoncus sapien!",
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem, nihil qui. Sunt, incidunt quae? Maxime libero rerum quos fugit sed, magni nisi ad illo aspernatur error fuga in possimus repellat. ",
   },
   {
     id: 4,
     name: "Diana Green",
     cover: "../images/e4.jpg",
     post: "Seven Arts - marketing manager",
-    desc: "Cras at ornare fermentum quam et tortor euismod, vel maximus metus tristique at ornare ex, quis fringilla tortor. Aenean semper neque quis consectetur lobortis. Quisque nec convallis ex. Aenean ut metus et nunc cursus aliquet.",
+    desc: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsa ullam numquam harum atque doloremque facilis, quaerat nisi aperiam qui sed laboriosam recusandae eos culpa mollitia magnam officiis beatae. Non, ipsam?.",
   },
 ]
 export const showcase = [
